@@ -1,7 +1,7 @@
 {
-  "name": "isreal",
-  "version": "0.0.0",
-  "description": "isreal",
+  "name": "isreally",
+  "version": "0.0.1",
+  "description": "isreally",
   "main": "index.js",
   "scripts": {
     "start": "node .",
